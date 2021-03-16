@@ -1,6 +1,6 @@
 # OSCP-Notes
 
-The Whole Course :
+The Whole Course Notes :
 https://drive.google.com/file/d/1DmuC29jE94afvkh6w4mmL8aNXDMTcuIC/view
 
 My Resource :
